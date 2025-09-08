@@ -9,5 +9,5 @@ This repository contains a collection of astrophysics-related codes developed as
 
 🎓 Academic Context
 
-These codes were written for coursework in astrophysics and computational physics. While not production-level software, they provide a foundation for learning, experimentation, and extension to research projects.
+These codes were written for coursework in astrophysics and computational physics. While not production-level software, they provide a foundation for learning, experimentation, and extension to research projects. NOTE : Some of these have been done in collaboration with peers.
 
